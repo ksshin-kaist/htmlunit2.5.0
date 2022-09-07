@@ -5,6 +5,7 @@ Version 2.64.0 / August 18, 2022
 :heart: [Sponsor](https://github.com/sponsors/rbri)
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/net.sourceforge.htmlunit/htmlunit/badge.svg)](https://maven-badges.herokuapp.com/maven-central/net.sourceforge.htmlunit/htmlunit)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fksshin-kaist%2Fhtmlunit2.5.0.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fksshin-kaist%2Fhtmlunit2.5.0?ref=badge_shield)
 
 **Homepage**
 
@@ -152,3 +153,5 @@ This project is licensed under the Apache 2.0 License
 [6]: https://github.com/HtmlUnit/htmlunit/projects/1 "https://github.com/HtmlUnit/htmlunit/projects/1"
 [7]: https://htmlunit.sourceforge.io/gettingStarted.html
 [8]: https://www.scrapingbee.com/java-webscraping-book/
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fksshin-kaist%2Fhtmlunit2.5.0.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fksshin-kaist%2Fhtmlunit2.5.0?ref=badge_large)
